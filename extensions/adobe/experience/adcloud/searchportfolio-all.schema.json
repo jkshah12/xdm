@@ -34,7 +34,7 @@
         "portfolioGroupInternalId": {
           "title": "Portfolio Group Internal Id",
           "type": "string",
-          "description": "Internal Identifier for a portfolio group"
+          "description": "Internal Identifier for a Portfolio Group"
         }
       }
     }
