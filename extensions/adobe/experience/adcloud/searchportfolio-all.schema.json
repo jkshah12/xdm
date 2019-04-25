@@ -18,7 +18,7 @@
       "properties": {
        	"adgroup": {
         	"title": "Adobe Ad Cloud Search Portfolio Top Level Fields",
-        	"$ref": "https://ns.adobe.com/experience/adcloud/entity",
+        	"$ref": "https://ns.adobe.com/experience/adcloud/advertisingattributes",
         	"description": "Adobe Ad Cloud Top Level Entity Fields."
         }, 
         "billingState": {
@@ -35,11 +35,6 @@
           "title": "Portfolio Group Internal Id",
           "type": "string",
           "description": "Internal Identifier for a portfolio group"
-        },
-        "portfolioObjectiveInternalID": {
-          "title": "Portfolio Objective Internal Id",
-          "type": "string",
-          "description": "Internal identifier for the portfolio Objective"
         }
       }
     }
